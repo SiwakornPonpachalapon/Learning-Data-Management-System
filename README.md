@@ -190,9 +190,9 @@ SourceCode/
 
 ---
 
-## 📺 Video Demo
+## 📺 Video
 
-[▶ รับชมการทำงานของโปรเจกต์บน YouTube](ใส่ลิงก์_YOUTUBE_ตรงนี้)
+[▶ รับชมการทำงานของโปรเจกต์บน YouTube](https://www.youtube.com/watch?v=VRd_HGyJWyU)
 
 ---
 
