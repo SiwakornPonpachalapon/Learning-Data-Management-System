@@ -10,7 +10,7 @@ Repository นี้รวบรวม **Source Code ที่ใช้ในก
 
 ## 🖥️ ภาพรวมโปรเจกต์
 
-![Learning Data Management System](Images/Overview.png)
+![Learning Data Management System](Images/Logo.png)
 
 ระบบสามารถโหลดข้อมูลตัวละครจาก Google Sheets และนำมาแสดงบน UI ภายใน Unity โดยข้อมูลของตัวละครประกอบด้วยหลายส่วน เช่น
 
@@ -86,7 +86,7 @@ Google Sheets ถูกใช้เป็นแหล่งสำหรับจ
 
 ### 🔗 Google Sheets
 
-[▶ ดู Google Sheets ที่ใช้ในโปรเจกต์](ใส่ลิงก์_GOOGLE_SHEET_ตรงนี้)
+[▶ ดู Google Sheets ที่ใช้ในโปรเจกต์](https://docs.google.com/spreadsheets/d/1TrGl4WXsMKhWdeT8l4bwGRiRvOYAPYDwUcWLq3bEIEY/edit?gid=0#gid=0)
 
 > Google Sheets ที่เผยแพร่ใช้สำหรับแสดงตัวอย่างโครงสร้างข้อมูลของโปรเจกต์ โดยเปิดสิทธิ์สำหรับการดูข้อมูลเท่านั้น (View-only) และไม่สามารถแก้ไขข้อมูลได้
 
@@ -94,7 +94,7 @@ Google Sheets ถูกใช้เป็นแหล่งสำหรับจ
 
 ## 👤 Character Data
 
-![Character Data](Images/CharacterData.png)
+![Character Data](Images/Character.png)
 
 เมื่อเลือกตัวละครจากรายชื่อ ระบบจะนำข้อมูลของตัวละครนั้นมาแสดงบน UI โดยข้อมูลที่แสดงประกอบด้วย Stats และรายละเอียดต่าง ๆ ของตัวละคร
 
